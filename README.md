@@ -1,2 +1,2 @@
 # ML_1371_12321-5
-ITAI-1371 LABS and Assignments
+This repository contains all of my Labs and Assignments from my ITAI-1371 Machine Learning Course.
